@@ -1,0 +1,38 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "untitled",
+	"origin" : "321338db-7016-11ed-b8db-a63abfc0fca6",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 1,
+	"snapshot" : 	{
+		"decay" : 		{
+			"value" : 11.5
+		}
+,
+		"note2" : 		{
+			"value" : 45.0
+		}
+,
+		"yrate" : 		{
+			"value" : 100.0
+		}
+,
+		"xrate" : 		{
+			"value" : 100.0
+		}
+,
+		"note1" : 		{
+			"value" : 83.0
+		}
+,
+		"dampening" : 		{
+			"value" : 0.17
+		}
+,
+		"__presetid" : "321338db-7016-11ed-b8db-a63abfc0fca6"
+	}
+
+}
