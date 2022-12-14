@@ -2,7 +2,7 @@
 	"name" : "rhuthmos",
 	"version" : 1,
 	"creationdate" : 3752089324,
-	"modificationdate" : 3753459332,
+	"modificationdate" : 3753896544,
 	"viewrect" : [ 25.0, 106.0, 675.0, 835.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -90,6 +90,11 @@
 				"local" : 1
 			}
 ,
+			"env1.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"viz4.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -136,6 +141,11 @@
 		}
 ,
 		"other" : 		{
+			"rhuthmos01.passthru.vert" : 			{
+				"kind" : "file",
+				"local" : 1
+			}
+,
 			"colormaps.genexpr" : 			{
 				"kind" : "genexpr",
 				"local" : 1
